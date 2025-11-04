@@ -4,6 +4,11 @@
 
 This project analyzes how different technical skills (Python, SQL, AWS, Tableau, etc.), experience levels, and industry types influence salary levels. The goal is to understand which skills provide the highest salary advantage and to provide data-backed career recommendations.
 
+## 📊 Average Salary by Skill
+
+<img width="878" height="493" alt="Screenshot 2025-11-05 at 1 39 05 AM" src="https://github.com/user-attachments/assets/dfb543bc-ab1e-4890-b710-167881d7a553" />
+
+
 ## 🎯 Objective
 
 * Identify which technical skills correlate with higher salaries.
